@@ -1,0 +1,14 @@
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\bin\Debug\net8.0\Semana 1.exe
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\bin\Debug\net8.0\Semana 1.deps.json
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\bin\Debug\net8.0\Semana 1.runtimeconfig.json
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\bin\Debug\net8.0\Semana 1.dll
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\bin\Debug\net8.0\Semana 1.pdb
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\Semana 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\Semana 1.AssemblyInfoInputs.cache
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\Semana 1.AssemblyInfo.cs
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\Semana 1.csproj.CoreCompileInputs.cache
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\Semana 1.dll
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\refint\Semana 1.dll
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\Semana 1.pdb
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\Semana 1.genruntimeconfig.cache
+C:\Users\Renata Bamberg\DotNet\MeuProjeto\obj\Debug\net8.0\ref\Semana 1.dll
