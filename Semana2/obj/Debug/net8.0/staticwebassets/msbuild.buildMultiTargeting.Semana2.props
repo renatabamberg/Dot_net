@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Semana2.props" />
+</Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\MeuProjeto\\Semana 1.csproj": {}
+    "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\Semana2\\Semana2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\MeuProjeto\\Semana 1.csproj": {
+    "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\Semana2\\Semana2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\MeuProjeto\\Semana 1.csproj",
-        "projectName": "Semana 1",
-        "projectPath": "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\MeuProjeto\\Semana 1.csproj",
+        "projectUniqueName": "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\Semana2\\Semana2.csproj",
+        "projectName": "Semana2",
+        "projectPath": "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\Semana2\\Semana2.csproj",
         "packagesPath": "C:\\Users\\Renata Bamberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\MeuProjeto\\obj\\",
+        "outputPath": "C:\\Users\\Renata Bamberg\\Desktop\\Dot_net\\Dot_net\\Semana2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Renata Bamberg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,6 +49,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
